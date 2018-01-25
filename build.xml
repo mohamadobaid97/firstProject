@@ -1,5 +1,3 @@
-
-
 <project default="compile">
   <property name="src.java.dir" location="./src/firstProject"/>
     <property name="result.dir" location="./target">
